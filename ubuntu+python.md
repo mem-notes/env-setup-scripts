@@ -17,3 +17,8 @@ $ alias python=python3
 $ python --version
 Python 3.4.3
 ```
+
+**install pip3 for python3**
+```shell
+sudo apt install python3-pip
+```
